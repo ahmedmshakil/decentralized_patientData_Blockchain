@@ -14,7 +14,7 @@ const Healthcare = () => {
 
 
     const [providerAddress, setProviderAddress] = useState("");
-    const contractAddress = "0x6348995a1972d426b6a7c053fd17a86b243c9d2b";
+    const contractAddress = "MetaMaskContractAddress"; // Replace with your own metamask contract address
 
     const contractABI = [
         {
